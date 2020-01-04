@@ -1,0 +1,5 @@
+token=NjM1Nzk0MDE4NDQ1Mjk1NjE4.Xa2PWQ.qI_KMJi1DWiIpGoprDmdgIgAbzI
+owner=476130473681092608
+prefix=B
+songinstatus=true
+stayinchannel=true
